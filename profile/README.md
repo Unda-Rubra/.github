@@ -42,7 +42,6 @@ We centralize all code and resources related to server maintenance, mod developm
 > We are currently organizing our existing resources. The following repositories will be opened gradually:
 
 - [`XDMC-Docs`](https://github.com/Unda-Rubra/Docs-XDMC) —— 社团文档与新人指南 / club documentation & newcomer guide  (WIP)
-- [`XDMC-PNBS`](https://github.com/Unda-Rubra/XDMC-PNBS) —— 音符盒歌曲文件仓库 / Note Block Songs Repository
 - [`Shining-XDUCraft`](https://github.com/Unda-Rubra/Shining-XDUCraft) —— Shining祭相关资产文件 / Assets for Shining Festival
 
 （更多仓库即将添加，敬请期待）  
